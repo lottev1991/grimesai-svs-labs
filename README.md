@@ -1,7 +1,7 @@
 # GrimesAI HTK-style SVS Labels
 This repository contains HTK-style .lab files, to be used on dry stems from the GrimesAI dataset. This to facilitate them for training SVS (singing voice synthesis) AI models.
 
-You can download the audio dataset on [elf.tech](https://elf.tech) (you need to make an account first).
+~~You can download the audio dataset on [elf.tech](https://elf.tech) (you need to make an account first).~~ **EDIT 2025/12/17:** The elf.tech website seems to currently be experiencing issues, _however_ the stems themselves are still online. They can be downloaded [here](https://grimes.wetransfer.com/downloads/4cf76171fc91733062eb277d9402b13620230430211631/6b2a23). This is the official download link, if anyone is concerned.
 
 ## License note
 The license included in this repository applies *ONLY* to the .lab files, *NOT* the original audio dataset, which was released under Grimes' own terms of use (more information can be found [here](https://createsafe.notion.site/Elf-Tech-GrimesAI-1-Voiceprint-610d81fcf2844419afafab493c6ec4b4)).
